@@ -1,6 +1,6 @@
-# Flappy Bird
+# Flappy Dragon
 
-For the last week of 2021, purchased [Hands-on Rust](https://pragprog.com/titles/hwrust/hands-on-rust/) and am following along with the tutorial.
+For the last week of 2021, purchased [Hands-on Rust](https://pragprog.com/titles/hwrust/hands-on-rust/) and am following along with the tutorial.  This program implements a flappy bird type game.
 
 ## Building
 
